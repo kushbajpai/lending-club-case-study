@@ -62,5 +62,5 @@ We have been given access to existing loan application data with a wide range of
 - seaborn v0.13.2
 
 ## Collaborators
-Vijay Kumar
-Kushagra Bajpai
+- Vijay Kumar
+- Kushagra Bajpai
